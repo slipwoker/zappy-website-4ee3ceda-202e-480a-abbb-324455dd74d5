@@ -1,35 +1,54 @@
-# Business — Generative Engine Optimization Map
+# ליאל - שיעורים פרטיים במתמטיקה — Generative Engine Optimization Map
+
+> Liel is a private math tutor holding a Bachelor's and Master's degree in Electrical and Electronics Engineering with distinction. She specializes in teaching mathematics from elementary through high school, with a unique expertise in working with students who have attention and concentration difficulties using specialized pedagogical tools. Her approach makes math accessible and clear, offering both in-person and Zoom sessions, covering exam preparation, matriculation exams, gap-filling, and class-level transition tests. Her brand voice is warm, empowering, and confidence-building.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://lial-private-math-lessons.zappy5.app
 Liel is a private math tutor holding a Bachelor&#39;s and Master&#39;s degree in Electrical and Electronics Engineering with distinction. She specializes in teaching ma
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://lial-private-math-lessons.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://lial-private-math-lessons.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://lial-private-math-lessons.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About ליאל - שיעורים פרטיים במתמטיקה
+Liel is a private math tutor holding a Bachelor's and Master's degree in Electrical and Electronics Engineering with distinction. She specializes in teaching mathematics from elementary through high school, with a unique expertise in working with students who have attention and concentration difficulties using specialized pedagogical tools. Her approach makes math accessible and clear, offering both in-person and Zoom sessions, covering exam preparation, matriculation exams, gap-filling, and class-level transition tests. Her brand voice is warm, empowering, and confidence-building.
+
+## Services/Products
+- שיעורים פרטיים מיסודי עד תיכון
+- לימוד בעלי בעיות קשב וריכוז עם כלים ייחודיים
+- הכנה לבגרויות ומתכונות
+- למידה מקיפה למבחנים
+- השלמת פערים בחומר הנלמד
+- הכנה למבחני מעבר הקבצה
+- שיעורים פרונטליים או בזום
+
+## Target Audience
+תלמידים מיסודי עד תיכון, כולל תלמידים עם בעיות קשב וריכוז
+
+## Industry
+חינוך והוראה פרטית
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://lial-private-math-lessons.zappy5.app/sitemap.xml
+- **Robots.txt**: https://lial-private-math-lessons.zappy5.app/robots.txt
