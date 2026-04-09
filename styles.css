@@ -5120,6 +5120,72 @@ body.accessibility-widget-visible ._access-menu {
 }
 }
 
+.index-hero-section .index-hero-custom-content {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.index-hero-section .index-hero-custom-title {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: var(--text-dark);
+  margin: 0 0 4px 0;
+  line-height: 1.3;
+}
+
+.index-hero-section .index-hero-custom-line {
+  font-size: 0.95rem;
+  color: var(--text-dark);
+  margin: 0;
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+.index-hero-section .index-hero-custom-list {
+  list-style: none;
+  padding: 0;
+  margin: 4px 0;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.index-hero-section .index-hero-custom-list li {
+  font-size: 0.9rem;
+  color: var(--text-dark);
+  padding-right: 20px;
+  position: relative;
+  line-height: 1.4;
+}
+
+.index-hero-section .index-hero-custom-list li::before {
+  content: '✓';
+  position: absolute;
+  right: 0;
+  color: var(--accent);
+  font-weight: 700;
+}
+
+.index-hero-section .index-hero-custom-contact {
+  font-size: 0.95rem;
+  color: var(--text-dark);
+  margin: 6px 0 0 0;
+  line-height: 1.7;
+  font-weight: 500;
+  border-top: 1px solid var(--border-light);
+  padding-top: 10px;
+}
+
+.index-hero-section .index-hero-custom-tagline {
+  font-size: 0.9rem;
+  color: var(--primary);
+  font-weight: 600;
+  font-style: italic;
+  margin: 0;
+  line-height: 1.4;
+}
+
 /* ========== RTL MOBILE NAVBAR FIX (zappy-rtl-mobile-fix) ========== */
 /* High-specificity rules to ensure RTL positioning wins over any [lang="en"] conflicts */
 /* For RTL sites: hamburger on RIGHT, phone on LEFT (mirror of LTR layout) */
