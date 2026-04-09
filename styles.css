@@ -5311,6 +5311,20 @@ body.accessibility-widget-visible ._access-menu {
 }
 }
 
+.index-hero-section .index-hero-tutor-photo {
+  display: flex !important;
+  justify-content: center !important;
+  margin-bottom: 18px !important;
+}
+
+.index-hero-section .index-hero-tutor-photo > div {
+  width: 220px !important;
+  height: 220px !important;
+  border-radius: 50% !important;
+  overflow: hidden !important;
+  flex-shrink: 0 !important;
+}
+
 /* ========== RTL MOBILE NAVBAR FIX (zappy-rtl-mobile-fix) ========== */
 /* High-specificity rules to ensure RTL positioning wins over any [lang="en"] conflicts */
 /* For RTL sites: hamburger on RIGHT, phone on LEFT (mirror of LTR layout) */
