@@ -3045,10 +3045,9 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
   z-index: 1;
 }
 
-/* ── Grid ─────────────────────────────────────────────────────── */
 .index-about-section .index-about-grid {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: 1fr 1fr;
   gap: 48px;
   align-items: center;
   direction: rtl;
