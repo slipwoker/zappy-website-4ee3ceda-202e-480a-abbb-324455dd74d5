@@ -1,6 +1,4 @@
-# ליאל - שיעורים פרטיים במתמטיקה — Generative Engine Optimization Map
-
-> Liel is a private math tutor holding a Bachelor's and Master's degree in Electrical and Electronics Engineering with distinction. She specializes in teaching mathematics from elementary through high school, with a unique expertise in working with students who have attention and concentration difficulties using specialized pedagogical tools. Her approach makes math accessible and clear, offering both in-person and Zoom sessions, covering exam preparation, matriculation exams, gap-filling, and class-level transition tests. Her brand voice is warm, empowering, and confidence-building.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -28,24 +26,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About ליאל - שיעורים פרטיים במתמטיקה
-Liel is a private math tutor holding a Bachelor's and Master's degree in Electrical and Electronics Engineering with distinction. She specializes in teaching mathematics from elementary through high school, with a unique expertise in working with students who have attention and concentration difficulties using specialized pedagogical tools. Her approach makes math accessible and clear, offering both in-person and Zoom sessions, covering exam preparation, matriculation exams, gap-filling, and class-level transition tests. Her brand voice is warm, empowering, and confidence-building.
-
-## Services/Products
-- שיעורים פרטיים מיסודי עד תיכון
-- לימוד בעלי בעיות קשב וריכוז עם כלים ייחודיים
-- הכנה לבגרויות ומתכונות
-- למידה מקיפה למבחנים
-- השלמת פערים בחומר הנלמד
-- הכנה למבחני מעבר הקבצה
-- שיעורים פרונטליים או בזום
-
-## Target Audience
-תלמידים מיסודי עד תיכון, כולל תלמידים עם בעיות קשב וריכוז
-
-## Industry
-חינוך והוראה פרטית
-
+## About Business
 ---
 
 # Additional Resources
