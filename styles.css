@@ -5186,6 +5186,109 @@ body.accessibility-widget-visible ._access-menu {
   line-height: 1.4;
 }
 
+@media screen and (max-width: 768px) {
+.index-hero-section {
+  min-height: 100svh !important;
+  padding-bottom: 0 !important;
+}
+
+.index-hero-section .index-hero-container {
+  padding: 0 !important;
+  min-height: 100svh !important;
+  align-items: stretch !important;
+  justify-content: stretch !important;
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+.index-hero-section .index-hero-card {
+  max-width: 100% !important;
+  width: 100% !important;
+  border-radius: 0 !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 90px 26px 50px !important;
+  background: rgba(250, 249, 246, 0.98) !important;
+  min-height: 100svh !important;
+  justify-content: center !important;
+}
+
+.index-hero-section .index-hero-custom-title {
+  font-size: 1.85rem !important;
+  font-weight: 800 !important;
+  color: var(--text-dark) !important;
+  margin-bottom: 10px !important;
+  line-height: 1.3 !important;
+}
+
+.index-hero-section .index-hero-custom-line {
+  font-size: 0.93rem !important;
+  color: var(--secondary) !important;
+  font-weight: 500 !important;
+  margin-bottom: 5px !important;
+  line-height: 1.6 !important;
+}
+
+.index-hero-section .index-hero-custom-list {
+  margin: 16px 0 !important;
+  padding-right: 0 !important;
+  list-style: none !important;
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 7px !important;
+}
+
+.index-hero-section .index-hero-custom-list li {
+  font-size: 0.92rem !important;
+  color: var(--text-dark) !important;
+  padding-right: 22px !important;
+  position: relative !important;
+  line-height: 1.5 !important;
+}
+
+.index-hero-section .index-hero-custom-list li::before {
+  content: '✓' !important;
+  position: absolute !important;
+  right: 0 !important;
+  color: var(--accent) !important;
+  font-weight: 700 !important;
+  font-size: 0.85rem !important;
+}
+
+.index-hero-section .index-hero-custom-contact {
+  font-size: 0.92rem !important;
+  color: var(--text-muted) !important;
+  margin-top: 18px !important;
+  padding-top: 16px !important;
+  border-top: 1px solid var(--border-light) !important;
+  line-height: 1.7 !important;
+}
+
+.index-hero-section .index-hero-custom-contact a {
+  color: var(--primary) !important;
+  font-weight: 700 !important;
+  font-size: 1.08rem !important;
+}
+
+.index-hero-section .index-hero-custom-tagline {
+  font-size: 0.9rem !important;
+  color: var(--secondary) !important;
+  font-style: italic !important;
+  font-weight: 500 !important;
+  margin-top: 12px !important;
+  text-align: center !important;
+  line-height: 1.6 !important;
+}
+
+.index-hero-section .index-hero-accent-line {
+  margin-inline-start: 0 !important;
+  margin-inline-end: auto !important;
+  margin-bottom: 18px !important;
+  width: 56px !important;
+  height: 3px !important;
+}
+}
+
 /* ========== RTL MOBILE NAVBAR FIX (zappy-rtl-mobile-fix) ========== */
 /* High-specificity rules to ensure RTL positioning wins over any [lang="en"] conflicts */
 /* For RTL sites: hamburger on RIGHT, phone on LEFT (mirror of LTR layout) */
